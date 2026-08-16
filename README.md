@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Hi there 👋
 
 <!--
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+=======
+# NGO_Start
+>>>>>>> 89f7c68d244b6a924cf80ab8b1769f5b5bf7b417
